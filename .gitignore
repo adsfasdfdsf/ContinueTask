@@ -1,0 +1,173 @@
+# Rider specific
+.idea/
+*.sln.iml
+*.user
+*.userprefs
+
+# macOS specific
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+*.swp
+*~
+*.orig
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa]rm/
+[Aa]rm64/
+bld/
+[Bb]in/
+[Oo]bj/
+out/
+
+# Visual Studio
+.vs/
+*.vstemplate
+*.vspscc
+*.vssscc
+*.suo
+*.user
+*.sln.docstates
+*.vcxproj.filters
+*.vcxproj.user
+
+# .NET Core / ASP.NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# NuGet packages
+packages/
+*.nupkg
+*.snupkg
+*.nuget.props
+*.nuget.targets
+
+# Test results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+*.coveragexmlx
+*.html
+*.xml
+*.png
+*.log
+
+# Code coverage
+*.coverage
+*.coveragexml
+*.coveragexmlx
+*.html
+*.xml
+
+# Publish profiles
+*.pubxml.user
+
+# Backup files
+*.[Bb]ak
+*.[Bb]ackup
+*.[Bb]ackup?
+
+# Logs
+*.log
+*.logs
+
+# Diagnostic files
+*.cache
+*.tmp
+*.temp
+*.pid
+*.seed
+
+# User-specific files
+*.rsuser
+*.user
+*.suo
+*.userosscache
+*.sln.ide
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*.pid
+*.sock
+*.socket
+
+# Package Manager Console
+*.ncrunchsolution
+*.ncrunchproject
+*.crunchsolution.*
+*.crunchproject.*
+
+# IDE specific
+.idea_modules/
+.idea/
+*.swp
+*.swo
+*~
+*.orig
+
+# Rider generated files
+/_ReSharper.Caches/
+*.DotSettings.user
+*.DotSettings
+
+# Publish
+*.Publish.xml
+*.pubxml.user
+
+# CodeRush
+.cr/
+
+# JetBrains Rider specific
+.idea/
+*.sln.iml
+*.csproj.user
+*.DotSettings.user
+
+# Dotnet tools
+.dotnet/
+.tools/
+
+# Local environment files
+.env
+.env.local
+.env.*.local
+appsettings.Development.json
+appsettings.Local.json
+
+# Package dependency files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Node modules (if using JavaScript/TypeScript in project)
+node_modules/
+
+# Certificates
+*.pfx
+*.p12
+*.cer
+*.crt
+*.key
+
+# Docker
+.dockerignore
+docker-compose.override.yml
+
+# User secrets
+secrets.json
+*.secrets.json
